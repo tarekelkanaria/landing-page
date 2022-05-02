@@ -5,11 +5,11 @@
 This is the first project in Professional Front-End Web Development Nanodegree Program. This project aims to build real-world scenarios of manipulating the DOM.  
 it builds multi-section landing page which anyone can dynamically add the content to the page. it demonstrating this with the navigation menu. 
 
-![sample of main part of the project](/screenshot-01-2022-05-02.png) 
-![sample of hamburger menu responsive to small screen](/screenshot-02-2022-05-02.png) 
-![sample of responsive navigation menu](/screenshot-03-2022-05-02.png)
-![sample of highlighting the active section](/screenshot-04-2022-05-02.png)
-![sample of review from udacity](/screenshot-05-2022-05-02.png) 
+![sample of main part of the project](images/screenshot-01-2022-05-02.png) 
+![sample of hamburger menu responsive to small screen](images/screenshot-02-2022-05-02.png) 
+![sample of responsive navigation menu](images/screenshot-03-2022-05-02.png)
+![sample of highlighting the active section](images/screenshot-04-2022-05-02.png)
+![sample of review from udacity](images/screenshot-05-2022-05-02.png) 
 
 ## Author
 
