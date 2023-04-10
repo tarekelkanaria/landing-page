@@ -34,7 +34,9 @@ const createNavList = (() => {
     linkElement.textContent = sectionAddress;
     /* note: i use addEventListner below to scroll smoothly to appropriate
     section instead of href */
-    linkElement.addEventListener("click", (evt) => {
+    linkElement.addEventListener(
+      "click",
+      (evt) => {
         section.scrollIntoView({
           behavior: "smooth",
         });
@@ -88,6 +90,6 @@ function hamburger() {
 function toTop() {
   window.scrollTo({
     top: 0,
-    behavior: "smooth"
-  })
+    behavior: "smooth",
+  });
 }

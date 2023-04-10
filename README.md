@@ -1,10 +1,15 @@
 # Landing Page Project
 
-## Demo-preview 
+## Demo-preview
 
 This is the first project in Professional Front-End Web Development Nanodegree Program. This project aims to build real-world scenarios of manipulating the DOM.  
-it builds multi-section landing page which anyone can dynamically add the content to the page. it demonstrating this with the navigation menu. 
+it builds multi-section landing page which anyone can dynamically add the content to the page. it demonstrating this with the navigation menu.
 
+![sample of main part of the project](images/screenshot-01-2022-05-02.png)
+![sample of hamburger menu responsive to small screen](images/screenshot-02-2022-05-02.png)
+![sample of responsive navigation menu](images/screenshot-03-2022-05-02.png)
+![sample of highlighting the active section](images/screenshot-04-2022-05-02.png)
+![sample of review from udacity](images/screenshot-05-2022-05-02.png)
 
 ## Author
 
@@ -29,12 +34,11 @@ Tarek M. Abdelraouf Shaer
   - Create a smooth scrolling behavior once the link has been clicked.
   - Make active section to be clear which section is viewed when scrolling or clicking on the navigation menu.
   - The navigation bar will lead to the appropriate section to which it belongs.
-  - Highlight the active section in the navigation bar. 
+  - Highlight the active section in the navigation bar.
 
-- Responsive humburger menu collapsible on small screen. 
+- Responsive humburger menu collapsible on small screen.
 
 - to top button in the end of the page to scroll to top
-
 
 ## Requirements
 
