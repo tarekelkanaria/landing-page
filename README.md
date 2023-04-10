@@ -2,6 +2,8 @@
 
 ## Demo-preview
 
+[Link to the page](https://tarekelkanaria.github.io/landing-page)
+
 This is the first project in Professional Front-End Web Development Nanodegree Program. This project aims to build real-world scenarios of manipulating the DOM.  
 it builds multi-section landing page which anyone can dynamically add the content to the page. it demonstrating this with the navigation menu.
 
